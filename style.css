@@ -30,6 +30,10 @@ nav ul {
 nav ul li{
     padding: 0 12px;
 }
+#home{
+    text-decoration: none;
+    color: white;
+}
 
 .brand img {
     width: 45px;
@@ -54,7 +58,7 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 34px;
-    background-image: url(bg.jpg);
+    background-image: url(covers/bg.jpg);
     background-size: 140vh;
 
 
